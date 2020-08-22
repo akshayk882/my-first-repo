@@ -1,2 +1,2 @@
 # my-first-repo
-Everything is great 
+Everything goes well
